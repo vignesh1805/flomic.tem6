@@ -163,7 +163,7 @@ a{
 }
 
 .back-round-img{
-    background-image: url(/images/pexels-simone-coltri-6317477.jpg);
+    background-image: url(./images/pexels-simone-coltri-6317477.jpg);
     background-size: cover;
     background-position: center;
     height: 550px;
